@@ -1,0 +1,15 @@
+/home/imentus/imentus_project/multi_sig_poc/multi_sig/target/debug/deps/stellar_xdr-bfd9bbe86af18486.rmeta: /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/lib.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/mod.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/generated.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_conversions.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_validations.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scmap.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/curr-version /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/next-version
+
+/home/imentus/imentus_project/multi_sig_poc/multi_sig/target/debug/deps/stellar_xdr-bfd9bbe86af18486.d: /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/lib.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/mod.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/generated.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_conversions.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_validations.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scmap.rs /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/curr-version /home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/next-version
+
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/lib.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/mod.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/generated.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_conversions.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scval_validations.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/curr/scmap.rs:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/curr-version:
+/home/imentus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-20.0.0-rc1/src/../xdr/next-version:
+
+# env-dep:CARGO_PKG_VERSION=20.0.0-rc1
+# env-dep:GIT_REVISION=d5ce0c9e7aa83461773a6e81662067f35d39e4c1
